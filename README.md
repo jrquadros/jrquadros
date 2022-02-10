@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Júnior Quadros</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Skilopay](https://www.skilopay.com.br)
+- 🔭 I’m currently working at [Skilopay](https://www.skilopay.com.br)
 
 - 🌱 I’m currently learning **Rescript and Elixir**
 
