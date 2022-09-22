@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rescript and Elixir**
 
-- 💬 Ask me about **React, React Native, GraphQl, Typescript Node**
+- 💬 Ask me about **React, React Native, GraphQl, Typescript, Node**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jrquadros](https://www.linkedin.com/in/jrquadros)
 
