@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Skilopay](https://www.skilopay.com.br)
 
-- 🌱 I’m currently learning **Rescript and Elixir**
+- 🌱 I’m currently learning **Elixir**
 
 - 💬 Ask me about **React, React Native, GraphQl, Typescript, Node**
 
