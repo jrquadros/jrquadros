@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, React Native, GraphQl, Typescript, Node**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jrquadros](https://www.linkedin.com/in/jrquadros)
+- 📄 Know about my  [experiences](https://www.linkedin.com/in/jrquadros)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
